@@ -27,3 +27,5 @@ override.tf.json
 terraform.rc
 
 tfvars/gameday.tfvars
+
+.DS_Store

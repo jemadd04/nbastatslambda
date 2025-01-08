@@ -1,1 +1,4 @@
 tfvars/gameday.tfvars
+.terraform/
+*.tfstate
+*.tfstate.*
